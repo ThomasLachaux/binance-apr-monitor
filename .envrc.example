@@ -1,0 +1,8 @@
+export INFLUXDB_URL=""
+export INFLUXDB_TOKEN=""
+export INFLUXDB_ORG=""
+export INFLUXDB_BUCKET=""
+
+# Separate by comma
+# Example BTC001,USDT001
+export COINS=""
