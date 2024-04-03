@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Thomas de Lachaux <thomas.delachaux@gmail.com>"]
 readme = "README.md"
-packages = [{include = "binance_apr_monitor"}]
+packages = []
 
 [tool.poetry.dependencies]
 python = "^3.9"
